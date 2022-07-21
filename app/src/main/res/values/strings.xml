@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bon-todo</string>
+    <string name="create_todo_button">Create Todo Button</string>
+    <string name="todo_title">Todo title</string>
+    <string name="todo_description">Todo Description</string>
+    <string name="todo_category">Todo Category</string>
+</resources>
